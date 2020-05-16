@@ -29,5 +29,6 @@ _testmain.go
 !bin/*.exe
 
 *.out
+/main.go
 
 
