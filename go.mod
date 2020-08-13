@@ -1,4 +1,4 @@
-module golib
+module  github.com/xiye518/golib
 
 go 1.14
 
