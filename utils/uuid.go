@@ -1,4 +1,4 @@
-package uuid
+package utils 
 
 import (
 	"crypto/md5"
